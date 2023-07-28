@@ -1,0 +1,524 @@
+[
+    {
+        "id":"1",
+        "image":"https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core%20i5%2013600K-01-228x228.webp",
+        "productName":"Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+        "category":"Processor",
+        "status":"In Stock",
+        "price":"36000",
+        "description":"The Intel Core i5-13600K 3.5 GHz 14-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 14 cores onto a single chip, four more than the prior generation, while still fitting the LGA 1700 socket. The Core i5-13600K is designed to deliver powerful performance for everyday workloads, with eight low-voltage Efficient-cores handling background tasks for multitasking and six 3.5 GHz Performance-cores powering programs and games.",
+        "keyFeatures":{
+            "brand":"intel",
+            "model":"Core i5 13600K"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "image":"https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-500x500.webp",
+        "productName":"Intel Pentium Gold G6405 Coffee Lake Processor",
+        "category":"Processor",
+        "status":"In Stock",
+        "price":"7000",
+        "description":"The Intel Pentium Gold G6405 Coffee Lake Processor comes with 4M Cache, 4.10 GHz Processor Base Frequency. This Intel Pentium Gold G6405 processor comes with a new breed that has an integrated Intel UHD Graphics 610, so a separate graphics card is not required for its functionality. This new Comet Lake microarchitecture is manufactured with the 14nm process (Lithography) that comes with 2 cores and HyperThreading.Intel Pentium Gold G6405 Coffee Lake Processor comes with the base frequency of 4.10 GHz. It has the 4MB Intel Smart Cache containing 2 cores and 4 threads.",
+        "keyFeatures":{
+            "brand":"intel",
+            "model":" Intel Pentium Gold G6405"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "image":"https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
+        "productName":"AMD Athlon 200GE AM4 Socket Desktop Processor",
+        "category":"Processor",
+        "status":"In Stock",
+        "price":"7000",
+        "description":"AMD Athlon Pro 200GE is a dual-core Processor with SMT-enabled, so it has four threads active and 512 KB L2 cache per core, and 4 MB shared L3 cache. The base clock is 3.20 GHz. The primary limitation is PCI-Express 3.0 at x8 for graphics. Raven Ridge is an unlocked processor, that enabled multiplier we managed to get a proper 3.9 GHz out of the two cores at a voltage of 1.4 volts. One thing you do need to keep in mind is that the memory will be restricted to 2667 MHz maximum (dual-channel).",
+        "keyFeatures":{
+            "brand":"amd",
+            "model":" Athlon 200GE"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "image":"https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE%20GA-J1800M-D3P/GIGABYTE%20GA-J1800M-D3P-1-500x500.jpg",
+        "productName":"GIGABYTE GA-J1800M-D3P Motherboard with Built In 2.41Ghz DDR3 Celeron Processor",
+        "category":"Motherboard",
+        "status":"In Stock",
+        "price":"7000",
+        "description":"Built-in IntelÂ® Celeronâ„¢ J1800 (2.41 GHz) Dual-Core processor.GIGABYTE Ultra Durableâ„¢ Technology.Dual channel DDR3/-L UDIMM slot support.Audio Noise Guard with High Quality Audio Capacitors.All Solid Capacitors with Humidity Protection New Glass Fabric PCB design.LAN with high ESD Protection.",
+        "keyFeatures":{
+            "brand":"GIGABYTE ",
+            "model":" GIGABYTE GA-J1800M-D3P"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "image":"https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/h510mhp/h510mhp-01-500x500.webp",
+        "productName":"BIOSTAR H510MHP 10th and 11th Gen Micro ATX Motherboard",
+        "category":"Motherboard",
+        "status":"In Stock",
+        "price":"7300",
+        "description":"The BIOSTAR H510MHP is a micro ATX motherboard designed for 10th and 11th gen Intel Core processors. It features an Intel H510 single-chip architecture, allowing for efficient and stable performance. It offers a 5-phase VRM design with high-quality power components such as low RDS (on) Mosfet for lower temperatures and has the advantage to raise the overclocking ability. The BIOSTAR H510MHP motherboard supports 2-DIMM DDR4 memory, with speeds of up to 3200/ 2933/ 2666/ 2400/2133/ 1866 and a maximum capacity of 64 GB.",
+        "keyFeatures":{
+            "brand":"BIOSTAR",
+            "model":"GIGABYTE GA-J1800M-D3P"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"6",
+        "image":"https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-500x500.jpg",
+        "productName":"ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category":"Motherboard",
+        "status":"In Stock",
+        "price":"8000",
+        "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design.",
+        "keyFeatures":{
+            "brand":"ASRock",
+            "model":"H81M-VG4 R4.0"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"7",
+        "image":"https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-4gb/jetram-4gb-01-500x500.webp",
+        "productName":"Transcend JetRam 4GB DDR4 3200MHz U-DIMM Desktop RAM",
+        "category":"RAM",
+        "status":"In Stock",
+        "price":"8000",
+        "description":"The Transcend JetRam 4GB DDR4 3200MHz Desktop RAM is made with genuine ETT grade, brand-name DRAM chips that have passed Transcend's stringent screening and testing procedures. The modules offer outstanding compatibility and fully-tested dependability, making them perfect for PC upgrades at a low cost. Each memory module is rated at 3200MHz, which dramatically increases data transfer efficiency by providing up to 25.6GB/s of bandwidth.",
+        "keyFeatures":{
+            "brand":"Transcend",
+            "model":"JetRam 4GB"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"8",
+        "image":"https://www.startech.com.bd/image/cache/catalog/ram/apacer/panther-golden-4gb-ddr4-2666mhz/panther-golden-4gb-ddr4-2666mhz-01-500x500.jpg",
+        "productName":"Apacer Panther Golden 4GB DDR4 2666MHZ Desktop RAM",
+        "category":"RAM",
+        "status":"In Stock",
+        "price":"1800",
+        "description":"The Apacer Panther Golden 4GB DDR4 2666MHZ RAM has a high level of compatibility. It is backward compatible with Intel and AMD series systems. This pattern is in the shape of a claw. On top, the unique and clever heat spreader design incorporates the panther's claws. It includes XMP 2.0 overclocking that is simple and easy to use, and it consumes very little power. The Apacer PANTHER-GOLDEN 4GB DDR4 2666MHZ Desktop RAM comes with a Lifetime warranty.",
+        "keyFeatures":{
+            "brand":"Apacer",
+            "model":"Panther Golden 4GB DDR4 2666MHZ"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"9",
+        "image":"https://www.startech.com.bd/image/cache/catalog/ram/twinmos/8gb-3200mhz/8gb-3200mhz-500x500.jpg",
+        "productName":"TwinMOS 4GB 3200MHz DDR4 U-DIMM Desktop RAM",
+        "category":"RAM",
+        "status":"In Stock",
+        "price":"2800",
+        "description":"The TwinMOS 4GB 3200MHz DDR4 U-DIMM RAM has a 4GB of DDR4 memory capacity. This RAM is a single-channel RAM with a CAS Latency of CL22. It has XMP support and the required voltage for the RAM is 1.2V. The TwinMOS 4GB 3200MHz DDR4 U-DIMM RAM has a frequency speed of 3200MHz.",
+        "keyFeatures":{
+            "brand":"Twinmos",
+            "model":"3200MHz DDR4"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"10",
+        "image":"https://www.startech.com.bd/image/cache/catalog/power-supply/ovo/ops-p4-450w/ops-p4-450w-02-500x500.webp",
+        "productName":"OVO OPS-P4 450W ATX Power Supply",
+        "category":"Power Supply Unit",
+        "status":"In Stock",
+        "price":"1800",
+        "description":"The OVO OPS-P4 450W ATX Power Supply is built with a mature and stable circuit and high-precision, reliable components. The power supply has a high-quality pure copper filter coil to offer a more steady output voltage. It includes a power-saving chipset. The maximum power is 450W, and the output is 20/24 pin.",
+        "keyFeatures":{
+            "brand":"Not-Brand",
+            "model":"3OPS-P4"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"11",
+        "image":"https://www.startech.com.bd/image/cache/catalog/power-supply/revenger/vp-350/vp-350-01-500x500.webp",
+        "productName":"Revenger VP 350 Watt Power Supply",
+        "category":"Power Supply Unit",
+        "status":"In Stock",
+        "price":"1800",
+        "description":"The Revenger VP 350 Watt Power Supply is a high-quality power supply unit designed to power your computer components in a dependable and efficient manner. It can provide constant and stable power to your system with a continuous power output of 350 watts. The power supply has a 120 mm fan to assist disperse heat and keep the operating temperature low. ",
+        "keyFeatures":{
+            "brand":"Revenger",
+            "model":"VP 350"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"12",
+        "image":"https://www.startech.com.bd/image/cache/catalog/power-supply/fsp/hydro-k-pro-500w/hydro-k-pro-500w-500x500.webp",
+        "productName":"FSP Hydro K PRO 500W 80 Plus Bronze Power Supply",
+        "category":"Power Supply Unit",
+        "status":"In Stock",
+        "price":"1800",
+        "description":"The FSP Hydro K PRO 500W 80 Plus Bronze Power Supply is a reliable and efficient power supply for your PC. It has an ATX form factor and an 80 PLUS® 230V Bronze certification, which means it can deliver up to 88% efficiency at typical load. Hydro K PRO has a 120mm HYB fan that operates quietly and adjusts its speed according to the temperature.",
+        "keyFeatures":{
+            "brand":"FSP",
+            "model":"Hydro K PRO 500W"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"13",
+        "image":"https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+        "productName":"Netac SA500 120GB 2.5-inch SATAIII SSD",
+        "category":"Storage Device",
+        "status":"In Stock",
+        "price":"1800",
+        "description":"The Netac SA500 120GB 2.5SATA SSD is designed to increase the response speed of notebooks and desktops by utilizing 3D TLC/QLC NAND Flash and a sophisticated controller, and it provides read speeds of up to 500MB/s and write speeds of up to 400MB/s for rapid startup, loading, and data transmission. It is simple to upgrade the system and is compatible with a broad range of laptops, desktops, and integrated computers",
+        "keyFeatures":{
+            "brand":"Netac",
+            "model":"SA500"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"14",
+        "image":"https://www.startech.com.bd/image/cache/catalog/ssd/pny/cs900/cs900-500x500.jpg",
+        "productName":"PNY CS900 120GB 2.5 SATA III Internal SSD",
+        "category":"Storage Device",
+        "status":"In Stock",
+        "price":"1800",
+        "description":"PNY CS900 120GB is the ideal solution for a mainstream solid state drive (SSD) upgrade from a hard disk drive (HDD). The CS900 delivers all the most sought after features at an excellent value, and is designed for an easy and cost-effective HDD replacement in the PC system to help realize faster boot times, quicker application launches and better overall system performance. With no moving parts, PNY CS900 is highly durable, less likely to fail, and supports up to 3 years of warranty.",
+        "keyFeatures":{
+            "brand":"PNY",
+            "model":"PNY CS900"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"15",
+        "image":"https://www.startech.com.bd/image/cache/catalog/ssd/gigabyte/120gb/120gb-ssd-500x500.jpg",
+        "productName":"Gigabyte 120GB Solid State Drive (SSD)",
+        "category":"Storage Device",
+        "status":"In Stock",
+        "price":"1800",
+        "description":"Form Factor: 2.5-inch internal SSD . Interface: SATA 6.0Gb/s . Total Capacity: 120GB*. Warranty: Limited 3-years . Sequential Read speed : up to 500 MB/s** Sequential Write speed : up to 380 MB/s**. TRIM & S.M.A.R.T supported",
+        "keyFeatures":{
+            "brand":"GIGABYTE",
+            "model":"Gigabyte 120GB"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"16",
+        "image":"https://www.startech.com.bd/image/cache/catalog/monitor/uniview/mw3222-x/mw3222-x-500x500.webp",
+        "productName":"Uniview MW3222-X 22 inch LED FHD Monitor With Built-In Speakers",
+        "category":"Monitor",
+        "status":"In Stock",
+        "price":"8800",
+        "description":"The Uniview MW3222-X 22 inch LED FHD Monitor is an excellent choice for anybody searching for a dependable and cost-effective monitor capable of handling both everyday work and entertainment. This monitor has a 21.5-inch LED-backlit display with a resolution of 1920x1080 and a contrast ratio of 3000:1, producing clear and brilliant pictures with rich colors and broad viewing angles. The display also offers a quick 7ms reaction time and a refresh rate of 60Hz, assuring smooth and lag-free performance while gaming, streaming video, and multitasking. ",
+        "keyFeatures":{
+            "brand":"Uniview",
+            "model":"MW3222-X"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"17",
+        "image":"https://www.startech.com.bd/image/cache/catalog/monitor/enter/e-mo-a01/e-mo-a01-01-500x500.webp",
+        "productName":"Uniview MW3222-X 22 inch LED FHD Monitor With Built-In Speakers",
+        "category":"Monitor",
+        "status":"In Stock",
+        "price":"8800",
+        "description":"The E-MO-A01, a 19.1-inch VGA, and HDMI LED monitor, is a high-end offering from Enter. All Enter E-MO-A01 19.1 inch VGA & HDMI LED Monitors are built with premium materials and state-of-the-art production techniques, which allows them to meet the requirements in this increasingly competitive business. VGA and HDMI are accepted as input signals, and the display modes include VGA, SVGA, SXGA, and WXGA. The Enter E-MO-A01 features a 250ccl/m2 brightness rating and a 1440 x 900 resolution. It has a 60Hz refresh rate and a 5ms (TD) response time. The Enter E-MO-A01 19-inch HD LED Monitor has a 02-year warranty.",
+        "keyFeatures":{
+            "brand":"Enter",
+            "model":"E-MO-A01"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    },
+    {
+        "id":"18",
+        "image":"https://www.startech.com.bd/image/cache/catalog/monitor/univision/led350/led350-01-500x500.png",
+        "productName":"Univision LED350 22 inch 60Hz AH FHD Monitor",
+        "category":"Monitor",
+        "status":"In Stock",
+        "price":"8800",
+        "description":"The Univision LED350 22 inch 60Hz AH LED Monitor is a high-quality display designed to boost productivity and efficiency in both office and residential settings. With 22 inch It has a 1366 x 768 HD resolution and a 5ms response time for smooth and crisp pictures. The monitor has an exceptional contrast ratio of 800:1 and a brightness level of 300cd/m, guaranteeing that the display is bright and clear even in well-lit surroundings.",
+        "keyFeatures":{
+            "brand":"Univision",
+            "model":"LED350"
+        },
+        "individualRatin":"4",
+        "avarageRating":"3.5",
+        "reviews":[
+            {
+                "name":"Ruhul Amin",
+                "comment":"This product is good"
+            },
+            {
+                "name":"Ahsan Habib",
+                "comment":"The price is too high"
+            },
+            {
+                "name":"Juel Rana",
+                "comment":"Are you comedy me?"
+            }
+        ]
+    }
+]

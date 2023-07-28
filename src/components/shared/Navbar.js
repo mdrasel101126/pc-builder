@@ -5,12 +5,12 @@ const Navbar = () => {
   const items = (
     <>
       <li>
-        <Link href="/">Processor</Link>
-        <Link href="/">Motherboard</Link>
-        <Link href="/">RAM</Link>
-        <Link href="/">Power Supply Unit</Link>
-        <Link href="/">Storage Device</Link>
-        <Link href="/">Monitor</Link>
+        <Link href="/processor">Processor</Link>
+        <Link href="/motherboard">Motherboard</Link>
+        <Link href="/ram">RAM</Link>
+        <Link href="/power-supply">Power Supply Unit</Link>
+        <Link href="/storage-device">Storage Device</Link>
+        <Link href="/monitor">Monitor</Link>
         <Link href="/">Others</Link>
       </li>
     </>
@@ -47,7 +47,7 @@ const Navbar = () => {
         </div>
         <a className="btn btn-ghost normal-case text-xl">PCBUILDER</a>
         <div className="hidden lg:flex  ml-10">
-          <ul className="menu menu-horizontal px-1">
+          <ul className="menu menu-horizontal px-1 z-10">
             <li tabIndex={0}>
               <details>
                 <summary>Categories</summary>
