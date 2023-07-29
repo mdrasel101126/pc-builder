@@ -58,6 +58,9 @@ const Navbar = () => {
         </div>
       </div>
       <div className="navbar-end">
+        <button className="btn btn-primary">
+          <Link href="/pc-builder">PC BUILDER</Link>
+        </button>
         <a className="btn btn-primary">Button</a>
       </div>
     </div>

@@ -1,7 +1,10 @@
 const { configureStore } = require("@reduxjs/toolkit");
+import productReducer from "./product/productSlice";
 
 const store = configureStore({
-  reducer: {},
+  reducer: {
+    product: productReducer,
+  },
 });
 
 export default store;
