@@ -3,7 +3,7 @@ import ProductCard from "@/components/products/ProductCard";
 import HomePageHeroSection from "@/components/ui/HomePageHeroSection";
 
 export default function HomePage({ products }) {
-  console.log(products);
+  //console.log(products);
   return (
     <div className="w-full">
       <div>

@@ -16,7 +16,7 @@ const ProductCard = ({ product }) => {
       </figure>
       <div className="card-body">
         <h2 className="card-title">{product?.productName}</h2>
-        <p>Category:{product?.categrory}</p>
+        <p>Category:{product?.category}</p>
         <p>Price:{product?.price}</p>
         <p>Status:{product?.status}</p>
         <p>Rating:{product?.avarageRating}</p>

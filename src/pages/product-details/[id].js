@@ -2,9 +2,9 @@ import RootLayout from "@/components/Layouts/RootLayout";
 import ProductDetails from "@/components/products/ProductDetails";
 
 const ProductDetailsPage = ({ product }) => {
-  console.log(product);
+  //console.log(product);
   return (
-    <div>
+    <div className="my-8">
       <ProductDetails key={product._id} product={product} />
     </div>
   );
