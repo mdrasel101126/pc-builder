@@ -7,11 +7,23 @@ const Navbar = () => {
     <>
       <li>
         <Link href="/processor">Processor</Link>
+      </li>
+      <li>
         <Link href="/motherboard">Motherboard</Link>
+      </li>
+      <li>
         <Link href="/ram">RAM</Link>
+      </li>
+      <li>
         <Link href="/power-supply">Power Supply Unit</Link>
+      </li>
+      <li>
         <Link href="/storage-device">Storage Device</Link>
+      </li>
+      <li>
         <Link href="/monitor">Monitor</Link>
+      </li>
+      <li>
         <Link href="/">Others</Link>
       </li>
     </>

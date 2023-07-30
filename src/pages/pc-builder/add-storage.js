@@ -29,6 +29,9 @@ const AddStorage = ({ products }) => {
             />
             <div className="ml-2">
               <p>{product?.productName}</p>
+              <p>Category:{product?.category}</p>
+              <p>Status:{product?.status}</p>
+              <p>Rating:{product?.averageRating}</p>
               <p>price:{product?.price}</p>
             </div>
           </div>

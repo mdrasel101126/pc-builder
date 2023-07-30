@@ -8,7 +8,9 @@ const LoginPage = () => {
         <h1 className="text-3xl font-bold ">Please Login</h1>
         <button
           onClick={() =>
-            signIn("github", { callbackUrl: "http://localhost:3000" })
+            signIn("github", {
+              callbackUrl: "/",
+            })
           }
           className="btn btn-primary w-28 mt-6"
         >
