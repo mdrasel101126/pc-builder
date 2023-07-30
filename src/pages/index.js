@@ -61,7 +61,7 @@ export default function HomePage({ products }) {
         </Link>
 
         <Link
-          href="/"
+          href="/others"
           className="p-4 bg-green-300 text-primary font-semibold rounded-md m-4  w-52 text-center"
         >
           Others

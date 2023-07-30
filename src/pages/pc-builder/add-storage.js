@@ -31,7 +31,7 @@ const AddStorage = ({ products }) => {
               <p>{product?.productName}</p>
               <p>Category:{product?.category}</p>
               <p>Status:{product?.status}</p>
-              <p>Rating:{product?.averageRating}</p>
+              <p>Rating:{product?.avarageRating}</p>
               <p>price:{product?.price}</p>
             </div>
           </div>
