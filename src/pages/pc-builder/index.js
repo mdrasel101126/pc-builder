@@ -243,14 +243,19 @@ const PcBuilderPage = () => {
         </div>
       </div>
       <div className="text-center my-4">
-        {processor &&
-          motherboard &&
-          powerSupply &&
-          ram &&
-          storage &&
-          monitor && (
-            <button className="btn btn-primary">Complete Pc Build</button>
-          )}
+        <button
+          disabled={
+            !processor ||
+            !motherboard ||
+            !powerSupply ||
+            !ram ||
+            !storage ||
+            !monitor
+          }
+          className="btn btn-primary"
+        >
+          Complete Pc Build
+        </button>
       </div>
     </div>
   );
